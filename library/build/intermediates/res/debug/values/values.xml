@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/rn/AndroidStudioProjects/Fotr/library/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/C:/Users/rn/AndroidStudioProjects/Fotr/library/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="error_could_not_take_photo">There was an issue with your camera. We are very sorry for the inconvenience!</string>
+    <string name="error_sd_card_not_mounted">External storage is required. Your SD card is most likely not mounted.</string>
+    <!-- From: file:/C:/Users/rn/AndroidStudioProjects/Fotr/library/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

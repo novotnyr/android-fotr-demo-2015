@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/rn/AndroidStudioProjects/Fotr/library/build/intermediates/bundles/debug/res/values-de/values.xml -->
+    <eat-comment/>
+    <string name="error_could_not_take_photo">Es ist ein Problem mit der Kamera aufgetreten. Diese Unannehmlichkeit tut uns sehr leid!</string>
+    <string name="error_sd_card_not_mounted">Externer Speicher wird vorausgesetzt. Vermutlich ist deine SD Karte derzeit nicht verfügbar.</string>
+</resources>
